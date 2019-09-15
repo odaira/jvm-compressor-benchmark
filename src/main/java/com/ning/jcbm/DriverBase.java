@@ -30,7 +30,7 @@ public abstract class DriverBase extends JapexDriverBase
     
     final static double MAX_COMPRESS_THROUGHPUT = 999.9;
 
-    final static double MAX_UNCOMPRESS_THROUGHPUT = 1499.9;
+    final static double MAX_UNCOMPRESS_THROUGHPUT = 2999.9;
 
     final static double MAX_BOTH_THROUGHPUT = 799.9;
     
